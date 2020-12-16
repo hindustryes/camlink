@@ -1,10 +1,14 @@
 # camlinkapt-get update -y
-apt-get upgrade -y
-pkg install python -y
-pkg install python2 -y
-pkg install git -y
+apt-get upgrade 
+
+pkg install python 
+
+pkg install python2 
+
+pkg install git 
+
 pip install lolcat
-git clone https://github.com/noob-hackers/grabcam
+git clone 
 cd $HOME
 ls
 cd grabcam
