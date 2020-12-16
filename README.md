@@ -15,7 +15,7 @@ cd $HOME
 
 ls 
 
-cd grabcam 
+cd camlink
 
 ls 
 
