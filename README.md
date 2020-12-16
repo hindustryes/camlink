@@ -20,3 +20,4 @@ Now go and chek your gallery for victim image...
 [+]--You can select any option by clicking on your keyboard
 
 [+]--Note:- Don't delete any of the scripts included in grabcam files
+.hi
