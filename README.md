@@ -7,17 +7,26 @@ pkg install python2
 
 pkg install git 
 
-pip install lolcat
+pip install lolcat 
+
 git clone 
-cd $HOME
-ls
-cd grabcam
-ls
-bash grabcam.sh
+
+cd $HOME 
+
+ls 
+
+cd grabcam 
+
+ls 
+
+bash grabcam.sh 
+
 to see captured images >>>
+
 ls
 
-mv (image name with .png) /sdcard
+mv (image name with .png) /sdcard 
+
 Now go and chek your gallery for victim image...
 [+]--Now you need internet connection to continue further process...
 
